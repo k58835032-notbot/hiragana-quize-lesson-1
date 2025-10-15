@@ -5,10 +5,11 @@ const words = [
   { hiragana: "_さぎ", correct: "う", meaning: "rabbit (usagi)" },
   { hiragana: "_とな", correct: "お", meaning: "adult (otona)" },
   { hiragana: "あか_", correct: "い", meaning: "red (akai)" },
-  { hiragana: "か_", correct: "い", meaning: "sea/ocean (kai)" },
+  { hiragana: "か_が_", correct: "い", meaning: "abroad (kaigai)" },
   { hiragana: "_るさい", correct: "う", meaning: "noisy (urusai)" },
   { hiragana: "_かね", correct: "お", meaning: "money (okane)" },
-  { hiragana: "__き", correct: "おお", meaning: "big (ooki)" },
+  { hiragana: "____き", correct: "お", meaning: "big (ooki)" },
+  { hiragana: "_み", correct: "う", meaning: "sea (umi)" },
   { hiragana: "つく_", correct: "え", meaning: "table (tsukue)" },
 ];
 
